@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Pavan Kumar K V 👋
 
-<!--
-**Pavann2004/pavann2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My GitHub Stats:
 
-Here are some ideas to get you started:
+<!-- STREAK COUNTER DASHBOARD -->
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Pavann2004&theme=one_dark_pro&hide_border=false)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- TOP LANGUAGES DASHBOARD -->
+![GitHub readme stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavann2004&theme=one_dark_pro&hide_border=false&layout=compact)
+
+---
+
+<!-- PROFILE VIEWS -->
+![Profile views](https://komarev.com/ghpvc/?username=Pavann2004&color=green)
